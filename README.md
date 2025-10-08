@@ -31,4 +31,8 @@ Top Reviewed Products: List of highly rated items.
 Text Analysis: Word cloud of product descriptions.
 
 Key Findings & Recommendations
-✔ Most products are priced between $40-$80—competitive pricing should focus here. ✔ Products with zero reviews need customer feedback to build trust. ✔ Monitor out-of-stock items for replenishment or discontinuation. ✔ Common keywords in descriptions include "comfort," "fit," and "dry"—use these in branding. ✔ Feature top-rated products more prominently to drive sales.
+- Most products are priced between $40-$80—competitive pricing should focus here.
+- Products with zero reviews need customer feedback to build trust.
+- Monitor out-of-stock items for replenishment or discontinuation.
+- Common keywords in descriptions include "comfort," "fit," and "dry"—use these in branding.
+- Feature top-rated products more prominently to drive sales.
